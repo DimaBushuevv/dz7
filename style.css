@@ -1,0 +1,67 @@
+.menu-link{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#95E1D3;;
+}
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#95E1D3;;
+}
+.menu-list{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.menu-list{
+    display: flex;
+    justify-content: space-around;
+}
+.menu-red{
+    color: #F38181;
+}
+.line{
+    width: 50px;
+    height: 3px;
+    background: #F38181;
+}
+.header{
+    margin-bottom: 100px;
+}
+.team-content-1{
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+.team-content-2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.line-1{
+    margin: auto;
+    width: 60px;
+    height: 4px;
+    background: #F38181;
+}
+.long-text{
+    color: #B6B6B6;
+    width: 1104px;
+    height: 47px;
+}
+.team-item{
+    display: inline-block;
+}
+.team-img{
+    width: 400px;
+    height: 470px;
+}
+.team-name{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333;
+}
+.team-position{
+    color: #B6B6B6;
+}
